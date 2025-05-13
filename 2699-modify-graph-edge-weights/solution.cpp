@@ -6,7 +6,7 @@ public:
     const int LARGE_VALUE = 2e9;
     typedef pair<long, long> P;
 
-    long long DijkstraAlgo(vector<vector<int>>& edges, int n, int src, int dest) {
+    long long dijkstra(vector<vector<int>>& edges, int n, int src, int dest) {
         // grafo excluindo as arestas -1
         unordered_map<long long, vector<pair<long long, long long>>> adj; // lista de adjacencia
 
@@ -44,7 +44,7 @@ public:
     }
 
     vector<vector<int>> modifiedGraphEdges(int n, vector<vector<int>>& edges, int source, int destination, int target) {
-        long long currShortestDist = DijkstraAlgo(edges, n, source, destination);
+        long long currShortestDist = dijkstra(edges, n, source, destination);
 
         if(currShortestDist < target) {
             return {};
@@ -57,7 +57,7 @@ public:
                 edge[2] = (matchedTarget == true) ? LARGE_VALUE : 1; // caso o menor caminho já seja o target
 
                 if(matchedTarget != true) {
-                    long long newShortestDist = DijkstraAlgo(edges, n, source, destination);
+                    long long newShortestDist = dijkstra(edges, n, source, destination);
 
                     if(newShortestDist <= target) {
                         matchedTarget = true;

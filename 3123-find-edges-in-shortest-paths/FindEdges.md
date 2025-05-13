@@ -1,6 +1,6 @@
 # 882. Reachable Nodes In Subdivided Graph
 
-A questão está disponível no [Link](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description).
+A questão está disponível no [Link](https://leetcode.com/problems/find-edges-in-shortest-paths/description/).
 
 Dificuldade da questão: Difícil
 

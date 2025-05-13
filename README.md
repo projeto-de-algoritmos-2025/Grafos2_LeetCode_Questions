@@ -25,5 +25,5 @@ Resolução de questões do LeetCode (3 questões por integrante do grupo) com o
 
 
 ## Vídeos de Apresentação
-- [Vídeo de apresentação dos problemas 1, 2 e 3]().
+- [Vídeo de apresentação dos problemas 1, 2 e 3](https://youtu.be/wTxHgqZ_gVU).
 - [Vídeo de apresentação dos problemas 4, 5 e 6](https://youtu.be/Mpbz62-lj5Y?si=KfE74_F7k-jiAGGu).

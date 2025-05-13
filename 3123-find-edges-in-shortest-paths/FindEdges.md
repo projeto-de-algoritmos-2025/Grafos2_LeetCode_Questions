@@ -1,4 +1,4 @@
-# 882. Reachable Nodes In Subdivided Graph
+# 3123. Find Edges in Shortest Paths
 
 A questão está disponível no [Link](https://leetcode.com/problems/find-edges-in-shortest-paths/description/).
 

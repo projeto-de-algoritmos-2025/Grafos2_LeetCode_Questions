@@ -15,9 +15,12 @@ Resolução de questões do LeetCode (3 questões por integrante do grupo) com o
 ## Problemas Resolvidos
 | Problema | Enunciado | Solução | Dificuldade | Autor da Resolução |
 | -- | -- | -- | -- | -- |
-| 4 | [3123](https://leetcode.com/problems/find-edges-in-shortest-paths/description/) | [codigo](https://github.com/projeto-de-algoritmos-2025/Grafos2_LeetCode_Questions/blob/master/3123-find-edges-in-shortest-paths/FindEdges.cpp) | Difícil | João Artur Leles|
-| 5 | [882](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description) |[codigo](https://github.com/projeto-de-algoritmos-2025/Grafos2_LeetCode_Questions/blob/master/882-reachable-nodes-in-subdivided-graph/reachableNodes.cpp) | Difícil| João Artur Leles|
-| 6 | [1368](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/) | [codigo](https://github.com/projeto-de-algoritmos-2025/Grafos2_LeetCode_Questions/blob/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/minimumCostGrid.cpp)| Difícil | João Artur Leles|
+| 1 | [778](https://leetcode.com/problems/swim-in-rising-water/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/Grafos2_LeetCode_Questions/blob/master/778-swim-in-rising-water/solution.cpp) | Difícil | Gustavo Melo |
+| 2 | [1489](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/) |[Código](https://github.com/projeto-de-algoritmos-2025/Grafos2_LeetCode_Questions/blob/master/1489-find-critical-and-pseudo-critical-edges-in-mst/solution.cpp) | Difícil| Gustavo Melo |
+| 3 | [2699](https://leetcode.com/problems/modify-graph-edge-weights/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/Grafos2_LeetCode_Questions/blob/master/2699-modify-graph-edge-weights/solution.cpp)| Difícil | Gustavo Melo |
+| 4 | [3123](https://leetcode.com/problems/find-edges-in-shortest-paths/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/Grafos2_LeetCode_Questions/blob/master/3123-find-edges-in-shortest-paths/FindEdges.cpp) | Difícil | João Artur Leles|
+| 5 | [882](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description) |[Código](https://github.com/projeto-de-algoritmos-2025/Grafos2_LeetCode_Questions/blob/master/882-reachable-nodes-in-subdivided-graph/reachableNodes.cpp) | Difícil| João Artur Leles|
+| 6 | [1368](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/Grafos2_LeetCode_Questions/blob/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/minimumCostGrid.cpp)| Difícil | João Artur Leles|
 
 
 
